@@ -1,63 +1,120 @@
+<div align="center">
+
+# 👋 Hi, I'm Thisaru Kaushal
+
+### Software Engineering Undergraduate | Full Stack Developer | Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;React+%7C+Node.js+%7C+Java;Building+Solutions+with+Code;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const thisaru = {
+    location: "Sri Lanka 🇱🇰",
+    education: "BSc (Hons) Software Engineering",
+    currentlyLearning: ["React", "Node.js", "REST APIs", "Cloud Computing"],
+    interests: [
+        "Full Stack Development",
+        "Web Applications",
+        "System Design",
+        "Software Architecture"
+    ],
+    currentProjects: [
+        "Healthcare Inventory System",
+        "Paint Auction Platform",
+        "Portfolio Website"
+    ],
+    funFact: "Spent hours debugging... it was a missing semicolon 😅"
+};
+```
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,cs,dotnet" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,firebase" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏥 Healthcare Inventory Management System
+Modern inventory and medicine tracking platform with reporting and analytics.
+
+### 🎨 Paint Auction Platform
+Online auction system built using React and ASP.NET Core.
+
+### 🚌 Real-Time Bus Tracking Platform
+Nationwide bus tracking solution for Sri Lanka.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tnkaushal&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnkaushal&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tnkaushal&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f9949b6a-1914-47bd-bb5d-77644e78140b" width="1000" height="250">
+<a href="https://linkedin.com/in/thisaru-kaushal">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:thisarukaushal@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Kaushal Dewasinghe</h1>
-<h3 align="center">💡 Building Ideas into Code | 🚀 Learning. Coding. Creating.</h3>
+---
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=tnkaushal&label=Profile%20views&color=0e75b6&style=flat" alt="tnkaushal" />
-</p>
+<div align="center">
 
-- 🌱 I’m currently learning **React ⚛️ | Node.js 🟩 | Java ☕ | REST APIs**
+### 💡 "Code. Learn. Build. Repeat."
 
-- 📫 How to reach me **thisarukaushal@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=tnkaushal&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
 
-- ⚡ Fun fact **I once debugged a bug for hours… only to realize I forgot a semicolon 😅;**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/thisaru-kaushal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-</p>
+</div>
