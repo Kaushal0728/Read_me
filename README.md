@@ -86,7 +86,7 @@ Nationwide bus tracking solution for Sri Lanka.
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=tnkaushal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+src="https://github-readme-stats.vercel.app/api?username=Kaushal0728&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
 loading="lazy"
 />
 
@@ -105,7 +105,7 @@ loading="lazy"
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=tnkaushal&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com?user=Kaushal0728&theme=tokyonight&hide_border=true"
 />
 
 </div>
@@ -134,6 +134,6 @@ src="https://streak-stats.demolab.com?user=tnkaushal&theme=tokyonight&hide_borde
 
 ### 💡 Code • Learn • Build • Repeat
 
-<img src="https://komarev.com/ghpvc/?username=tnkaushal&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Kaushal0728&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
 
 </div>
