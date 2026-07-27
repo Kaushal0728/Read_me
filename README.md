@@ -92,7 +92,7 @@ loading="lazy"
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=tnkaushal&layout=compact&theme=tokyonight&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal0728&layout=compact&theme=tokyonight&hide_border=true"
 loading="lazy"
 />
 
