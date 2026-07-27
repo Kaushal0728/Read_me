@@ -14,6 +14,7 @@
 
 ```javascript
 const thisaru = {
+  name: "Thisaru Kaushal",
   location: "Sri Lanka 🇱🇰",
   education: "BSc (Hons) Software Engineering",
   currentlyLearning: [
@@ -29,7 +30,7 @@ const thisaru = {
     "System Design"
   ],
   currentProjects: [
-    "Healthcare Inventory System",
+    "Healthcare Inventory Management System",
     "Paint Auction Platform",
     "Portfolio Website"
   ],
@@ -69,13 +70,16 @@ const thisaru = {
 
 # 🌟 Featured Projects
 
-### 🏥 Healthcare Inventory Management System
+## 🏥 Healthcare Inventory Management System
+
 Modern inventory and medicine tracking platform with reporting and analytics.
 
-### 🎨 Paint Auction Platform
+## 🎨 Paint Auction Platform
+
 Online auction system built using React and ASP.NET Core.
 
-### 🚌 Real-Time Bus Tracking Platform
+## 🚌 Real-Time Bus Tracking Platform
+
 Nationwide bus tracking solution for Sri Lanka.
 
 ---
@@ -84,17 +88,9 @@ Nationwide bus tracking solution for Sri Lanka.
 
 <div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Kaushal0728&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-loading="lazy"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kaushal0728&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal0728&layout=compact&theme=tokyonight&hide_border=true"
-loading="lazy"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushal0728&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -104,9 +100,7 @@ loading="lazy"
 
 <div align="center">
 
-<img
-src="https://streak-stats.demolab.com?user=Kaushal0728&theme=tokyonight&hide_border=true"
-/>
+<img src="https://streak-stats.demolab.com?user=Kaushal0728&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -120,7 +114,7 @@ src="https://streak-stats.demolab.com?user=Kaushal0728&theme=tokyonight&hide_bor
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:thisarukaushal@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
